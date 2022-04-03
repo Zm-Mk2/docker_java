@@ -1,0 +1,7 @@
+spring:
+  #server.port=8080
+  datasource:
+    url: jdbc:postgresql://db:5432/postgresdb
+    username: root
+    password: root
+    driver-class-name: org.postgresql.Driver
